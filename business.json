@@ -5,7 +5,7 @@
   "repo_url": "https://github.com/alvapcompany/barbacoasofi",
   "pages_url": "https://alvapcompany.github.io/barbacoasofi/",
   "dashboard_url": "https://alvapcompany.github.io/barbacoasofi/dashboard.html",
-  "nombre_negocio": "Nuevo Negocio (barbacoasofi)",
+  "nombre_negocio": "(barbacoasofi)",
   "categoria": "Comercio Local",
   "descripcion": "Descripción de los servicios ofrecidos.",
   "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
@@ -22,5 +22,12 @@
   "link_google_negocio": "",
   "botones_adicionales": [],
   "fecha_creacion": "2026-11-05T17:05:09.868Z",
-  "fecha_actualizacion": "2026-11-15T19:59:37.664Z"
+  "color_btn_whatsapp": "#25d366",
+  "color_btn_instagram": "#e1306c",
+  "color_btn_facebook": "#1877f2",
+  "color_btn_ubicacion": "#ea4335",
+  "color_btn_extra": "#eab308",
+  "estilo_botones": "icon_only",
+  "password": "",
+  "fecha_actualizacion": "2026-11-15T19:49:25.546Z"
 }
